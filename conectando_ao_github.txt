@@ -1,0 +1,13 @@
+Primeiramente faz-se necessário criar um cadastro no GitHub. Após a realização do cadastro e do loguin, podemos ir em 'repositories' e em 'new' para criarmos nosso repositório.
+Feito isso, criamos o nome do repositório e escolhemos se será um repositório publico ou privado.
+Após isto, podemos inserir um repositório 'arrastando' do PC para o site, ou podemos enviar o repositório via código no terminal (que é bem mais legal).
+Para enviar o repositório via código devemos seguir os passos indicados na página:
+
+1 - Realizar o 'git init';
+2 - Commitar tudo que irá subir para o GitHub;
+3 - Realizar o 'código remote add origin' seguido da url do projeto;
+4 - Finalizar enviando com 'git push origin main' (caso deseja enviar uma branch basta substituir o main pelo nome da branch).
+
+Podemos também criar arquivos .gitignore e lincar tudo que não irá subir para o GitHub.
+
+Podemos fazer o clone de um repositório de terceiros atravéz do código 'git clone' seguido da url do projeto. Podemos também baixar o projeto que estamos trabalhando atravéz do 'git pull origin main'.
