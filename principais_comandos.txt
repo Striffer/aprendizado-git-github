@@ -1,0 +1,23 @@
+Realizar os comandos no terminal é algo muito empolgante, pois conseguimos ver resultados de cada código digitado.
+
+Os comando principais são:
+
+git status - verifica o status dos arquivos da pasta
+git add [nome do arquivo] - adiciona o arquivo ao git
+git commit -m '[mensagem do que foi adicionado/ alterado]' - comita o arquivo q foi adicionado
+git log - mostra os commits que foram feitos 
+git log --pretty=oneline - mostra cada commit em uma linha 
+git log --pretty=oneline -1 - mostra o último comit em uma linha 
+git log --stat - mostra os status dos commits 
+git diff - mostra a diferença entre os commits
+git commit --amend - modifica um comit feito
+git reset HEAD [nome do arquivo] - remove o status add do arquivo
+git checkout -- [nome do arquivo] - remove as modificações que não foram comitadas do arquivo
+
+git branch - mostra todas a branchs do progeto
+git branch [nome da branch] - cria uma nova branch
+git checkout [nome da branch] - muda de branch
+git branch -D [nome da branch] - deleta a branch
+git merge [nome da branch] - mistura as branchs adicionando a diferença entre elas na branch atual
+
+git clone [link da pag github] - baixa o projeto do github pro seu pc
