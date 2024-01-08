@@ -1,0 +1,2 @@
+Brancs são espécies de universos paralelos de um código. Toda alteração que acontece em uma branch não interfere na outra (a não ser que use o comando 'merge' para que uma branch seja mesclada com a branch atual).
+Elas são muito úteis para projetos desenvolvidos por mais de um desenvolvedor, pois cada um pode fazer uma parte do projeto e, posteriormente, serem mescladas dando origem ao projeto completo.
