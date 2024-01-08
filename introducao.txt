@@ -1,0 +1,6 @@
+Este é um projeto iniciante em GIt e GitHub onde estarei relatando acerca do que aprendi sobre os seguintes conteudos:
+
+1 - Instalando e configurando o Git;
+2 - Principais Comandos;
+3 - Branchs;
+4 - Conectando ao GitHub.
