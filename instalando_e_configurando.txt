@@ -1,0 +1,1 @@
+A configuração e instalação do Git se dá de maneira bem simples. Atravéz do site git-scm.com, é possível realizar o download (alguns terminais já vem com o git instalado sendo interessante antes da instalação realizar o código git -v no terminal para ver se há alguma versão dele instalado).
